@@ -1,0 +1,31 @@
+/* styles/styles.css */
+
+/* Container */
+.container {
+    padding-top: 2rem; /* equivalent to pt-8 */
+  }
+  
+  /* Flex Container */
+  .flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* corrected to align-items for vertical centering */
+  }
+  
+  /* Title Styling */
+  .title {
+    font-size: 1.875rem; /* equivalent to text-3xl */
+    font-weight: bold;   /* equivalent to font-bold */
+    padding-left: 2.5rem; /* equivalent to pl-10 */
+  }
+  
+  /* Menu Styling */
+  .menu {
+    font-size: 1.5rem; /* equivalent to text-2xl */
+  }
+  
+  .menu-link {
+    list-style: none; /* Remove bullet points */
+    margin-right: 5rem; /* Add margin to space out menu items if needed */
+  }
+  

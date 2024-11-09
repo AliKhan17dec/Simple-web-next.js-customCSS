@@ -1,0 +1,58 @@
+/* styles/styles.css */
+
+/* Container */
+.container {
+    padding-top: 2rem; /* equivalent to pt-8 */
+  }
+  
+  /* Flex Container */
+  .flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Title */
+  .title {
+    font-size: 1.875rem; /* equivalent to text-3xl */
+    font-weight: bold;
+    padding-left: 2.5rem; /* equivalent to pl-10 */
+  }
+  
+  /* Menu styling */
+  .menu {
+    display: flex;
+    font-size: 1.5rem; /* equivalent to text-2xl */
+  }
+  
+  .menu-link {
+    list-style: none;
+    margin-left: 1rem;
+  }
+  
+  /* About Section */
+  .about-section {
+    padding-top: 10rem; /* equivalent to pt-32 */
+  }
+  
+  .about-heading {
+    font-size: 2.25rem; /* equivalent to text-4xl */
+  }
+  
+  .about-heading-md {
+    font-size: 3rem; /* equivalent to md:text-5xl */
+  }
+  
+  .about-text {
+    color: #6b7280; /* equivalent to text-gray-500 */
+    padding-top: 1rem; /* equivalent to pt-4 */
+  }
+  
+  /* Icon Container */
+  .icon-container {
+    padding-top: 5rem; /* equivalent to pt-20 */
+    display: flex;
+    gap: 0.75rem; /* equivalent to gap-3 */
+    align-items: center;
+  }
+  

@@ -1,0 +1,32 @@
+/* styles/styles.css */
+
+/* Center alignment and padding */
+.centered-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px; /* equivalent to pt-10 */
+  }
+  
+  /* Heading styles */
+  .main-heading {
+    font-weight: bold;
+    font-size: 2.25rem; /* equivalent to text-4xl */
+    text-align: center;
+    color: #38bdf8; /* equivalent to text-sky-400 */
+  }
+  
+  .section-heading {
+    font-weight: bold;
+    font-size: 1.875rem; /* equivalent to text-3xl */
+    color: #94a3b8; /* equivalent to text-gray-400 */
+    padding-top: 2.5rem; /* equivalent to pt-10 */
+  }
+  
+  /* List styling */
+  .list-container {
+    padding-top: 1.25rem; /* equivalent to pt-5 */
+    font-size: 1.5rem; /* equivalent to text-2xl */
+    padding-left: 2.5rem; /* equivalent to pl-10 */
+    color: white;
+  }
+  

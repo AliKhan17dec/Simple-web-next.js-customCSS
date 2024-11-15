@@ -1,5 +1,3 @@
-// src/pages/page.tsx
-
 import React from 'react';
 import { AiOutlineMail } from "react-icons/ai";
 import { FaGithub } from "react-icons/fa";
@@ -42,3 +40,4 @@ const Page = () => {
 }
 
 export default Page;
+
